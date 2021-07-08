@@ -1,6 +1,6 @@
 {
   "name": "parkbenchsolutions/odinapi-xmlseclib",
-  "description": "A PHP library for XML Security",
+  "description": "Park Bench version of a PHP library for XML Security",
   "license": "BSD-3-Clause",
   "keywords": [
     "xml",
@@ -9,7 +9,7 @@
     "security"
   ],
   "homepage": "https://github.com/robrichards/xmlseclibs",
-  "version": "0.1.3",
+  "version": "0.1.1",
   "autoload": {
     "psr-4": {
       "XMLSecLibs\\": "src"
