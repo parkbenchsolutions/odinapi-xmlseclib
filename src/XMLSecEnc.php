@@ -1,13 +1,13 @@
 <?php
 
-namespace Parkbenchsolutions\XMLSecLibs;
+namespace XMLSecLibs;
 
 use DOMDocument;
 use DOMElement;
 use DOMNode;
 use DOMXPath;
 use Exception;
-use Parkbenchsolutions\XMLSecLibs\Utils as XPath;
+use XMLSecLibs\Utils as XPath;
 
 /**
  * xmlseclibs.php

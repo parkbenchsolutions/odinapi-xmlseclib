@@ -1,6 +1,6 @@
 <?php
 
-namespace Parkbenchsolutions\XMLSecLibs;
+namespace XMLSecLibs;
 
 use DOMElement;
 use Exception;
