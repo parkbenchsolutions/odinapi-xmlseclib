@@ -7,7 +7,7 @@ use DOMElement;
 use DOMNode;
 use DOMXPath;
 use Exception;
-use RobRichards\XMLSecLibs\Utils\XPath as XPath;
+use Parkbenchsolutions\XMLSecLibs\Utils as XPath;
 
 /**
  * xmlseclibs.php
