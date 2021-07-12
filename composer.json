@@ -9,7 +9,7 @@
     "security"
   ],
   "homepage": "https://github.com/robrichards/xmlseclibs",
-  "version": "0.1.3",
+  "version": "0.1.6",
   "autoload": {
     "psr-4": {
       "XMLSecLibs\\": "src"
