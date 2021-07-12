@@ -1,6 +1,6 @@
 <?php
 
-namespace RobRichards\XMLSecLibs\Utils;
+namespace Parkbenchsolutions\XMLSecLibs\Utils;
 
 class XPath
 {
