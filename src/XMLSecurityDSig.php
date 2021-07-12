@@ -1,5 +1,6 @@
 <?php
-namespace RobRichards\XMLSecLibs;
+
+namespace Parkbenchsolutions\XMLSecLibs;
 
 use DOMDocument;
 use DOMElement;
