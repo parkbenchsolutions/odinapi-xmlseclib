@@ -656,7 +656,6 @@ class XMLSecurityDSig
             }
             if (empty($uri)) {
                 $uri = self::generateGUID();
-                $uri = 'pfx8efbae88-5100-287a-53d7-32bc41a92923';
                 $node->setAttributeNS($prefix_ns, $attname, $uri);
             }
             $refNode->setAttribute("URI", '#'.$uri);
